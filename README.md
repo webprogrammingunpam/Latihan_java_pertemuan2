@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,&theme=light)](https://skillicons.dev)
 ## 1. Membuat Aplikasi "Form Data Diri"
 ![Mumu](image/1.png)
-## 2. 
+## 2. Jangan Lupa ya sayang sesuaikan dengan Arah Panah nya
 ![Mumu](image/2.png)
 ## 3. Jangan Lupa Klik Change Variable Name Tulis (jTextField1)
 ![Mumu](image/3.png)
