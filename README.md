@@ -13,6 +13,9 @@
 ![Mumu](image/5.png)
 ## 6.  jangan Lupa di Ketik Ya Sayang
 ![Mumu](image/6.png)
-## 7. 
+## 7. Jangan Lupa Klik ==>> Events ==>> Action ==>> actionPerformed[jButton1ActionPerformed] Tulis Code ini Lihat HAsil nya
 ![Mumu](image/7.png)
+## 8. Lihat Hasil nya
+![Mumu](image/1.png)
+
 
